@@ -14,7 +14,7 @@ int fibonacci(int a)
 int main()
 {
 	// zadatak pomoæu rekurzije napraviti program koji æe ispisati prvih 20 brojeva fibonnacijevog niza
-
+// da vidimo
 
 	for (size_t i = 0; i < 20; i++)
 	{
