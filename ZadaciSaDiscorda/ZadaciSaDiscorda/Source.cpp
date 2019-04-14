@@ -15,3 +15,17 @@
 //6. Napisati program koji prima text i character od strane korisnika, te ispisuje taj text bez tog charactera.
 //
 //7. Napisati program koji æe primiti vector brojeva, i ispisati korisniku koji brojevi su parni, a koji neparni
+
+
+//#define PI 3.14f
+// 1. Zadatak
+// Napisati program koji ce uzet unos 2 broja od korisnika te ih podijeliti i ispisati rezultat
+
+// 2. Zadatak
+// Napisati program koji uzima unos 2 godine, te ispisuje sve prijestupne godine u tom intervalu.
+
+//3. Zadatak
+// Napisati program koji trazi unos od korisnika jedan broj, te ispisuje toliko znamenki fiboanaccijevog reda.
+
+//4. Zadatak
+// Napisati program koji trazi unos od korisnika za radius kruznice, te ispisati povrsinu kruznice
