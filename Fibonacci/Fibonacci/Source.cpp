@@ -20,4 +20,6 @@ int main()
 	{
 		std::cout << " " << fibonacci(i);
 	};
+
+	std::cin.get();
 }
