@@ -7,8 +7,9 @@ int main()
 {
 	int i;
 	std::string str;
-	std::cout << "Please enter some text without spaces: " << std::endl;
-	std::cin >> str;
+	std::cout << "Please enter some text: " << std::endl;
+	std::getline(std::cin, str);
+	//std::cin >> str;
  
 	i = str.length() - 1;
 	std::cout << "Same text, only backwards: " << std::endl;
